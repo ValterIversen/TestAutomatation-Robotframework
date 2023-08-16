@@ -1,5 +1,6 @@
 *** Settings ***
 Library     SeleniumLibrary
+Library     DateTime
 
 # Data
 Resource    data/geral.robot
