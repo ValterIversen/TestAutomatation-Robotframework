@@ -2,7 +2,7 @@
 Library     SeleniumLibrary
 Library     DateTime
 Library     Screenshot
-Library     generator.py
+Library     ../libraries/generator.py
 
 #Shared
 Resource    shared/setup_teardown.robot
