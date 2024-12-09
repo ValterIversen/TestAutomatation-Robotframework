@@ -2,9 +2,6 @@
 Resource    ../main.resource
 
 *** Keywords ***
-Finish test
-    Log    a
-
 Get session token
     ${payload}    Load Json From File    ${EXECDIR}/resources/fixture/auth/auth.json
 

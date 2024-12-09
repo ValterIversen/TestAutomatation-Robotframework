@@ -4,8 +4,6 @@ Library     ../libraries/generator.py
 Resource    ../resources/main.resource
 Resource    ../resources/routes/costumer.resource
 
-Test Teardown   Finish test
-
 *** Test Cases ***
 TC01 - Search for a costumer by name
     [Documentation]    Test the costumers search with a name
