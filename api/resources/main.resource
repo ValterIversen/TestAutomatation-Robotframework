@@ -8,4 +8,4 @@ Resource    shared/setup_teardown.resource
 
 *** Variables ***
 &{geral}
-...    URL=https://api.open-meteo.com/v1/forecast
+...    URL=http://localhost:3000/api
