@@ -1,0 +1,4 @@
+robot
+robotframework-requests
+robotframework-jsonlibrary
+faker
