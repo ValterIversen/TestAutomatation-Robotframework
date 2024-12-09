@@ -9,7 +9,7 @@ Test Teardown   Close the browser
 *** Test Cases ***
 TC01 - Form filling test
     [Documentation]    Test to validate form filling using random data
-    [Tags]    Search    Video    High
+    [Tags]    SignUp    High
     Go to Sign Up
     ${user}=            Generate Fake User
     Enter first name        ${user['first_name']}
