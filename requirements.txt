@@ -2,4 +2,7 @@ robotframework
 robotframework-requests
 robotframework-jsonlibrary
 robotframework-seleniumlibrary
+robotframework-appiumlibrary
 faker
+Appium-Python-Client
+robotframework-appiumlibrary
